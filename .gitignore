@@ -1,0 +1,8 @@
+.vscode
+node_modules
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+[Bb]in/
+[Oo]bj/
